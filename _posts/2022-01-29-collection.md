@@ -8,7 +8,7 @@ toc: true
 
 !나를 위한 기록!
 
-[배열 첫번째 포스트로 이동](/swift/optional)
+[배열 첫번째 포스트로 이동](/swift/swift4)
 
 ### Array
 
